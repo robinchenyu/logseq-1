@@ -6704,6 +6704,13 @@ lru-cache@^6.0.0:
   dependencies:
     yallist "^4.0.0"
 
+macos-alias@^1.0.0:
+  version "0.2.12"
+  resolved "https://registry.npmmirror.com/macos-alias/-/macos-alias-0.2.12.tgz#c984db71b7c2372924548291a0790b43c080606b"
+  integrity sha512-yiLHa7cfJcGRFq4FrR4tMlpNHb4Vy4mWnpajlSSIFM5k4Lv8/7BbbDLzCAVogWNl0LlLhizRp1drXv0hK9h0Yw==
+  dependencies:
+    nan "^2.4.0"
+
 make-dir@^3.1.0:
   version "3.1.0"
   resolved "https://registry.yarnpkg.com/make-dir/-/make-dir-3.1.0.tgz#415e967046b3a7f1d185277d84aa58203726a13f"
@@ -7168,9 +7175,9 @@ mz@^2.7.0:
     object-assign "^4.0.1"
     thenify-all "^1.0.0"
 
-nan@^2.12.1, nan@^2.17.0:
+nan@^2.12.1, nan@^2.17.0, nan@^2.4.0:
   version "2.23.0"
-  resolved "https://registry.yarnpkg.com/nan/-/nan-2.23.0.tgz#24aa4ddffcc37613a2d2935b97683c1ec96093c6"
+  resolved "https://registry.npmmirror.com/nan/-/nan-2.23.0.tgz#24aa4ddffcc37613a2d2935b97683c1ec96093c6"
   integrity sha512-1UxuyYGdoQHcGg87Lkqm3FzefucTa0NAiOcuRsDmysep3c1LVCRK2krrUDafMWtjSG04htvAmvg96+SDknOmgQ==
 
 nanoid@^3.3.11:
